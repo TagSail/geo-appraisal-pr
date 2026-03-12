@@ -1,3 +1,3 @@
-# geo-appraisal-pr
+# geo-valor-pr
 SaaS for Real Estate/Appraisal Industry 
 Puerto Rico
